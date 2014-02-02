@@ -43,3 +43,9 @@ In SCSS file:
     html, body{
     	@extend .font-size-10;
     }
+    
+    
+Demo: [JSFiddle][1]
+
+
+  [1]: http://jsfiddle.net/dgJaK/
