@@ -3,6 +3,13 @@ Font-Size - Responsive-CSS
 
 Adjustable font size via css media queries. Keep text with proportional size on different screens. Scale to minimum readable size.
 
+Demo: [JSFiddle][1]
+
+
+  [1]: http://fiddle.jshell.net/dgJaK/show/
+  
+  
+
 Sample Usage:
 
 
@@ -43,9 +50,3 @@ In SCSS file:
     html, body{
     	@extend .font-size-10;
     }
-    
-    
-Demo: [JSFiddle][1]
-
-
-  [1]: http://jsfiddle.net/dgJaK/
