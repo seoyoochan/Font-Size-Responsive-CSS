@@ -15,10 +15,14 @@ Sample Usage in HTML via class:
 
 ----------
 
-    &lt;head&gt;
-        &lt;link rel="stylesheet" type="text/css" href="font-size.css" /&gt;
-    &lt;/head&gt;
-    &lt;body class="font-size-10"&gt;&lt;h1 class="font-size-2">&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;small class="font-size-12"&gt;&lt;/small&gt;&lt;/body&gt;
+    <head>
+        <link rel="stylesheet" type="text/css" href="font-size.css" />
+    </head>
+    <body class="font-size-10">
+      <h1 class="font-size-2">Heading</h1>
+      <p>Text</p>
+      <small class="font-size-12">Small</small>
+    </body>
 
     
 Sample Usage in SASS Compass(scss) file:
