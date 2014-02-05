@@ -10,18 +10,22 @@ Demo: [JSFiddle][1]
   
   
 
-Sample Usage:
+Sample Usage in HTML via class:
 
 
 ----------
-In HTML via class:
+
     &lt;head&gt;
         &lt;link rel="stylesheet" type="text/css" href="font-size.css" /&gt;
     &lt;/head&gt;
     &lt;body class="font-size-10"&gt;&lt;h1 class="font-size-2">&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;small class="font-size-12"&gt;&lt;/small&gt;&lt;/body&gt;
 
     
-In SASS Compass(scss) file:
+Sample Usage in SASS Compass(scss) file:
+
+
+----------
+
 
     @import "_font-size.scss";
     h1{
