@@ -1,7 +1,7 @@
-Font-Size - Responsive-CSS
+Font-Size - Responsive Typography CSS
 ==========================
 
-Adjustable font size via css media queries. Keep text with proportional size on different screens. Scale to minimum readable size.
+Font size relative to window size via media queries. Support for viewport sized typography(vw) and fallback to pixels. Keep text with proportional size on different screens. Scale to minimum size of 12px.
 
 Demo: [JSFiddle][1]
 
