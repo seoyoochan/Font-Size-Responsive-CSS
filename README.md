@@ -6,7 +6,7 @@ Adjustable font size via css media queries. Keep text with proportional size on 
 Demo: [JSFiddle][1]
 
 
-  [1]: http://fiddle.jshell.net/dgJaK/show/
+  [1]: http://fiddle.jshell.net/dgJaK/1/show/
   
   
 
