@@ -6,7 +6,7 @@ Font size relative to window size via media queries. Support for viewport sized 
 Demo: [JSFiddle][1]
 
 
-  [1]: http://fiddle.jshell.net/dgJaK/4/show/
+  [1]: http://fiddle.jshell.net/dgJaK/5/show/
   
   
 
